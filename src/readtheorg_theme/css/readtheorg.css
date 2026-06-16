@@ -304,7 +304,7 @@ code{
     position:absolute;
     top:0px;
     left:0px;
-    background:#9B59B6;
+    background:#ff79c6;
     color:#fff;
     padding:6px 12px}
 
@@ -637,7 +637,7 @@ a .fa,a #content .admonition-title,#content a .admonition-title{
 
 #content .admonition-title.error,#content .admonition-title.danger{
     line-height: 1;
-    background:#f29f97}
+    background:#ff5555}
 
 legend{
     display:block;
@@ -669,7 +669,7 @@ a:hover{
     color:#3091d1}
 
 a:visited{
-    color:#9B59B6}
+    color:#ff79c6}
 
 .left{
     text-align:left}
@@ -927,7 +927,7 @@ footer p{
     left:0;
     width:300px;
     color:#fcfcfc;
-    background:#1f1d1d;
+    background:#191a21;
     border-top:solid 10px #343131;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
@@ -943,7 +943,7 @@ footer p{
 #postamble .date {
     font-size: 90%;
     margin-bottom: 0px;
-    color: #27AE60;
+    color: #50fa7b;
 }
 
 #postamble .creator,#postamble .validation {
@@ -961,7 +961,7 @@ footer p{
     text-align:right;
     font-size:90%;
     cursor:pointer;
-    color:#27AE60;
+    color:#50fa7b;
     *zoom:1}
 
 #content img{
@@ -1033,7 +1033,7 @@ footer p{
     font-size:100%}
 
 #content .highlighted{
-    background:#F1C40F;
+    background:#ffb86c;
     display:inline-block;
     font-weight:bold;
     padding:0 6px}
@@ -1084,7 +1084,7 @@ h2.footnotes{
 }
 
 .todo{
-    background-color: #f29f97;
+    background-color: #ff5555;
     padding: 0px 4px;
     color: #fff;
 }
