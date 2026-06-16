@@ -50,21 +50,21 @@ pre.src {
 
 /* Success state */
 .copy-code-button.copied {
-    background-color: #28a745;
+    background-color: #50fa7b;
     color: white;
-    border-color: #28a745;
+    border-color: #50fa7b;
 }
 
 .copy-code-button.copied:hover {
-    background-color: #218838;
-    border-color: #1e7e34;
+    background-color: #059E2B;
+    border-color: #06CB37;
 }
 
 /* Failed state */
 .copy-code-button.failed {
-    background-color: #dc3545;
+    background-color: #ff5555;
     color: white;
-    border-color: #dc3545;
+    border-color: #ff5555;
 }
 
 /* Focus state for accessibility */
