@@ -330,6 +330,7 @@ pre.src{
     overflow:auto;
     padding:12px;
     white-space:pre;
+    background-color: #282a36;
 }
 
 pre,
