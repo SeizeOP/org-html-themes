@@ -279,9 +279,9 @@ dl dd{
 }
 
 code{
-    background: #21222c;
-    border:solid 1px #e1e4e5;
-    /* color:#000;  for clickable code */
+    background: #282a36;
+    border:solid 1px #44475a;
+    color: #f8f8f2;  /*for clickable code */
     font-family:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
     font-size:75%;
     max-width:100%;
@@ -292,11 +292,12 @@ code{
 
 .codeblock-example{
     border:1px solid #e1e4e5;
+    color: #f8f8f2;
     border-bottom:none;
     padding:24px;
     padding-top:48px;
     font-weight:500;
-    background:#fff;
+    background: #282a36;
     position:relative}
 
 .codeblock-example:after{
